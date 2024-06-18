@@ -1,0 +1,1 @@
+["OnGroupCreated(string,string,int)","OnUserNameUpdated(string,string,string)","OnGroupRankSet(string,int)","OnGroupTitleSet(string,string)","OnPermissionRegistered(string,Oxide.Core.Plugins.Plugin)","OnGroupParentSet(string,string)","OnGroupDeleted(string)"]
